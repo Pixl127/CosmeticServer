@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CosmeticServer">
+    <output-path>$PROJECT_DIR$/addons</output-path>
+    <root id="archive" name="CosmeticServer.jar">
+      <element id="module-output" name="CosmeticServer.main" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src/main/resources" />
+    </root>
+  </artifact>
+</component>
